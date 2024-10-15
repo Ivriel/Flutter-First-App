@@ -1,6 +1,7 @@
 ### Tentang
 Repositori ini berisi 1 halaman kode flutter yang berkekstensi .dart\
-Kode ini adalah untuk pengerjaan Soal Praktikum pertama kali
+Kode ini adalah untuk pengerjaan Soal Praktikum pertama kali\
+Untuk membuat aplikasi sederhana yang menampilkan stateless widget yang berupa 4 card yang berisikan gambar dan judul serta deskripsi singkat dari card
 
 ### Cara menjalankan
   1. Buat proyek flutter di vscode
