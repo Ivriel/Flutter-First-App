@@ -1,6 +1,6 @@
 ### Tentang
 Repositori ini berisi 1 halaman kode flutter yang berkekstensi .dart\
-Kode ini adalah untuk pengerjaan Soal Praktikum pertama kali\
+Kode ini adalah untuk pengerjaan Soal Praktikum pertama kali
 
 ### Cara menjalankan
   1. Buat proyek flutter di vscode
@@ -11,7 +11,7 @@ Kode ini adalah untuk pengerjaan Soal Praktikum pertama kali\
 
 ### Lainnya
 Saya sedang belajar mengenai mobile developing khususnya menggunakan framework flutter\
-Ini adalah aplikasi pertama saya yang dibuat dengan cara mempelajari modul dan juga dari ChatGPT\
+Ini adalah aplikasi pertama saya yang dibuat dengan cara mempelajari modul dan juga dari ChatGPT
 
 - WAKTU PEMBUATAN : 14 OKTOBER 2024
 - WAKTU RILIS : 15 OKTOBER 2024
